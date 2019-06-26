@@ -10,6 +10,9 @@ jeg har lavet alle els vcf filer til dem der ikke hade kort sagt næsten dem all
 
 håber i kan lide det for kæft det er ikke sjovt at lave handeling osv...
 
+
+
+add dem til din cfg
 ```
 start ambulance ##replace vanilla
 start ambu01
