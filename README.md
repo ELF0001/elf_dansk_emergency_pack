@@ -22,7 +22,7 @@ start ambu04
 start aw139 
 
 start police_default ##replacer vanilla biller
-start police01 ## not recommended brugte den bare til at lave dem alle
+start police01 ## ikke recommended brugte den bare til at lave dem alle
 start police02
 #start police03 ## vis man spawner den crasher man fik aldrig fixet kan være jeg gør en gang
 start police04
