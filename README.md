@@ -43,5 +43,5 @@ start flatbed
 start towtruck
 
 start els
-start vrp_nocar ## det er ikke et vrp script så spørg mig ikke hvorfor jeg kalde den det
+start vrp_nocar ## det er et carjack script som gør man ikke kan tage de politibiler / motercykler som spawner
 ```
