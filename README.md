@@ -43,5 +43,6 @@ start flatbed
 start towtruck
 
 start els
-start vrp_nocar ## det er et carjack script som gør man ikke kan tage de politibiler / motercykler som spawner
+start vrp_nocar ## det er et carjack script som gør man ikke kan tage de politibiler / motercykler som spawner 
+## vis man ikke kan tage de motorcykler som spawner kan man heller ikke bugge våben med dem
 ```
